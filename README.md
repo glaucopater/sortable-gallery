@@ -1,6 +1,11 @@
 # sortable-gallery
 
 Adapt, arrange, overcome
-===
+---
 
-Arrange the pictures as you prefer, then save the order
+Drag and drop the pictures, then save the order
+
+
+Demo
+---
+https://codesandbox.io/s/sortable-drag-drop-gallery-uv5hc
